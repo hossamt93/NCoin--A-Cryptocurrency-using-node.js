@@ -1,0 +1,1 @@
+ blockchain is a process of continous transactions depending on eachother
